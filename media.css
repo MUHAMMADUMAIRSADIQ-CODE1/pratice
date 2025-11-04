@@ -9,3 +9,11 @@
     margin-bottom: 5px;
 }
 }
+@media only screen and (min-width:575px) and (max-width:768px){
+.cb{
+   padding: 5px !important;
+}
+.wb{
+    padding: 8px 15px !important;
+}
+}
