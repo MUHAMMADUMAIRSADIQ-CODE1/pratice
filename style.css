@@ -59,3 +59,16 @@ line-height: 68px;
 .cole p{
     font-size: 16px;font-weight: 400;color: #43505B;
 }
+.h3{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #43505B;
+
+}
+.p1{
+     font-size: 15px;
+    font-weight: 400;
+  line-height: 26px;
+  color: #43505B;
+}
