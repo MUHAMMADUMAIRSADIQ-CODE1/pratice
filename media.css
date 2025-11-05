@@ -58,18 +58,19 @@
     .bo {
         border-bottom: none !important;
     }
-    .slide-left {
-  opacity: 0;
-  transform: translateX(-50px);
-  animation: slideInLeft 1s forwards;
-}
 
-@keyframes slideInLeft {
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
+    .slide-left {
+        opacity: 0;
+        transform: translateX(-50px);
+        animation: slideInLeft 1s forwards;
+    }
+
+    @keyframes slideInLeft {
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
 
 }
 
