@@ -48,6 +48,17 @@
         display: flex;
         flex-direction: column !important;
     }
+
+    .cole {
+        border-top: none !important;
+        border-left: none !important;
+        border-right: none !important;
+    }
+
+    .bo {
+        border-bottom: none !important;
+    }
+
 }
 
 @media only screen and (min-width:575px) and (max-width:768px) {
@@ -59,8 +70,9 @@
         padding: 8px 15px !important;
     }
 }
+
 @media only screen and (min-width:992px) and (max-width:1199px) {
-.flow {
+    .flow {
         display: flex;
         flex-direction: column !important;
     }
